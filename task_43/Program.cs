@@ -37,3 +37,4 @@ double[] coord = DataInput();
 WriteEquations(coord);
 Calculations(coord, out x, out y);
 Console.WriteLine($"Точка пересечения ({x}; {y})");
+

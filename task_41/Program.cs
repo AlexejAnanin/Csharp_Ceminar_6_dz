@@ -24,3 +24,4 @@ return count;
 }
 
 Console.Write($"Количество чисел больше нуля: {CountNumbers(EnterNumbers())}");
+
